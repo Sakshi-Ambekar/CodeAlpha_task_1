@@ -4,7 +4,9 @@
 Task : A simple project for beginners is good to start. It can be built
 using Swing in Java. Here, the application tells you the no of
 words, the entered paragraph has.
+
 </br>
+
 This is a simple Java application built using Swing that counts the number of words in a given paragraph. It provides a graphical user interface (GUI) where users can input text and receive an instant word count.
 
 # Features
@@ -20,7 +22,7 @@ This is a simple Java application built using Swing that counts the number of wo
 # Installation
 1. Clone the repository:
 
-git clone https://github.com/Sakshi-Ambekar/CodeAlpha_Task_1.git
+git clone https://github.com/Sakshi-Ambekar/CodeAlpha_Task_1.git </br>
 cd WordCountApp
 
 2. Open the project in your IDE:
